@@ -9,13 +9,18 @@ __What is NBTAddons?__
 
 NBTAddons is an open source, community-led effort to track every single item in Hypixel Skyblock.
 
-By contributing to the effort, you earn "contributions" (because you contributed), and using the contributions you can search the NBTAddons database for (currently) exotic armour sets, applied pet skins, and unapplied pet skins. In the future, you will be able to search for any item with any attribute you want.
-
-NBTAddons uses this data to be able to provide "active dupe checking", item ownership history, quick access to item nbt, hypixel searches, item statistics/rarity, and more to come.
+NBTAddons shows data such as uuid, timestamp, exotics/crystal armor, where the item was dropped and much more to be able to provide "active dupe checking", item ownership history, quick access to item nbt, hypixel searches, item statistics/rarity, and more to come.
 
 It also provides handy in-game features, such as lobby scanning for exotics, exotic labelling (eg fairy/spooky/exotic/glitched), copying item uuid to clipboard, dupe-checking via a hotkey, and armour rarity annotations (how many there are in the game).
 
 At the moment, it takes 12 hours for any item/inventory update to be reflected in the NBTAddons database. We have over 110 million items tracked, and almost 15 million players known about.
+
+NBTAddons also includes qol features such as: 
+-Dungeon secret routes (routes recorded by cata 61)
+-Slayer qol
+-Farming qol
+-Dungeons qol
+-Party commands such as (!warp, !party, !disband)
 
 ---
 ## How to build?
